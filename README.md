@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ismail shaikh
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning BE in computer engg from savitribai phule pune university
