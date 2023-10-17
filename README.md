@@ -40,19 +40,7 @@ My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated
 
 ## 🔗 Connect with me:
 <p align = "center">
-  <a href="https://abhisc.me/">
-    <img alt="MYSTYX7 | Website" src="https://cdn-icons-png.flaticon.com/32/7461/7461843.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/COOLABHI1/">
-    <img alt="MYSTYX7 | Facebook" src="https://cdn-icons-png.flaticon.com/32/5968/5968764.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/mystyx_7">
-    <img alt="MYSTYX7 | Twitter" src="https://cdn-icons-png.flaticon.com/32/733/733579.png" />
-  </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/opabhi/">
-    <img alt="MYSTYX7 | LinkedIn" src="www.linkedin.com/in/ismail-shaikh01" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/abhimanyu.xyz/">
-    <img alt="MYSTYX7 | Instagram" src="" />
+    <img alt="Ismail | LinkedIn" src="https://www.linkedin.com/in/ismail-shaikh01/" />
   </a>
 </p>
