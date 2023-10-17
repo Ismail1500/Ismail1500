@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Ismail shaikh
 - 👀 I’m interested in learning new things
-- 🌱 Currently I’m pursuing BE in computer engg from savitribai phule pune university.
+- 🌱 Currently I’m pursuing a BE in computer engineering from Savitribai Phule Pune University.
+- shaikhismail1423@gmail.com
