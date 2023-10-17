@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Ismail1500&color=orange&style=for-the-badge&label=VIEWS" alt="Ismail"/>
-  <img align="right" src="https://img.shields.io/github/followers/Ismail1500?color=orange&label=Followers&style=for-the-badge" alt="Ismail" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=Ismail1500&color=orange" alt="Ismail"/>
+  <img align="right" src="https://img.shields.io/github/followers/Ismail1500?color=orange&label=Followers alt="Ismail"/>
   <h1 align="center">Hey there..</h1>
 </p>
 
@@ -16,10 +16,8 @@ My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated
 ## ✨ 2023 Goals
   - [x] Complete Portfolio Website
   - [x] Get a Job
-  - [x] Learn Flutter Development
+  - [x] Learn React.JS Development
   - [ ] Contribute more to Open Source projects
-  - [ ] Become a Startup founder (More Futuristic)
-
 ## 🧾 Blog Posts
   - [JavaScript Destructuring (Basics)](https://medium.com/p/c495bf868729) (Published in TowardsDev website)
   - [Basics of Node.JS](https://medium.com/@mystyx/basics-of-node-js-de60036fdc4)
