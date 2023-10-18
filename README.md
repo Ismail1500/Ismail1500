@@ -18,9 +18,6 @@ My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated
   - [x] Get a Job
   - [x] Learn React.JS Development
   - [ ] Contribute more to Open Source projects
-## 🧾 Blog Posts
-  - [JavaScript Destructuring (Basics)](https://medium.com/p/c495bf868729) (Published in TowardsDev website)
-  - [Basics of Node.JS](https://medium.com/@mystyx/basics-of-node-js-de60036fdc4)
 
 ## 🛠️ Languages, Frameworks & Libraries:
 <p align = "center">
