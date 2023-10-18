@@ -39,6 +39,6 @@ My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated
 ## 🔗 Connect with me:
 <p align = "center">
   <a href="https://www.linkedin.com/in/ismail-shaikh01/">
-    <img alt="Ismail | LinkedIn" src="https://www.linkedin.com/in/ismail-shaikh01/" />
+    Linkedin❤️
   </a>
 </p>
