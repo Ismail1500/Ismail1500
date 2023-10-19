@@ -17,7 +17,7 @@ My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated
   - [x] Complete Portfolio Website
   - [x] Get a Job
   - [x] Learn React.JS Development
-  - [ ] Contribute more to Open Source projects
+  - [x] Contribute more to Open Source projects
 
 ## 🛠️ Languages, Frameworks & Libraries:
 <p align = "center">
