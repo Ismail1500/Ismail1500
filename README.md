@@ -1,9 +1,6 @@
 <p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Ismail1500&color=orange" alt="Ismail"/>
-  <img align="right" src="https://img.shields.io/github/followers/Ismail1500?color=orange&label=Followers" alt="Ismail"/>
   <h1 align="center">Hey there..</h1>
 </p>
-
 My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated, and believe in an optimistic technology-driven future.
 
 ## 🙋‍♂️ About Me
