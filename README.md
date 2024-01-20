@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Hey there..</h1>
 </p>
-My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated, and believe in an optimistic technology-driven future.
+My name is **Ismail Shaikh**, I'm energetic, cooperative, self-motivated, and believe in an optimistic technology-driven future.
 
 ## 🙋‍♂️ About Me
 - 🔭 Learning **Full Stack Developement**.
@@ -24,11 +24,7 @@ My name is ***Ismail Najir Shaikh***, I'm energetic, cooperative, self-motivated
   <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp; <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;
 </p>
 
-## 📊 My Github Stats
-<p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ismail1500&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail1500&layout=compact&theme=vision-friendly-dark&hide_border=true">
-</p>
+
 
 ## 🔗 Connect with me:
 <p align = "center">
