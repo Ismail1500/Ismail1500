@@ -1,7 +1,8 @@
 <p align="center">
   <h1 align="center">Hey there..</h1>
 </p>
-My name is **Ismail Shaikh**, I'm energetic, cooperative, self-motivated, and believe in an optimistic technology-driven future.
+My name is ISMAIL SHAIKH. 
+I'm energetic, cooperative, and self-motivated, believing in an optimistic technology-driven future.
 
 ## 🙋‍♂️ About Me
 - 🔭 Learning **Full Stack Developement**.
