@@ -7,7 +7,7 @@ I'm energetic, cooperative, and self-motivated, believing in an optimistic techn
 ## 🙋‍♂️ About Me
 - 🔭 Learning **Full Stack Developement**.
 - 🚀 I’m currently learning **React.JS** and **Node.JS**.
-- 🔥 Visit **[My Portfolio Website](UPDATE SOON)**
+- 🔥 Visit **https://ismail-portfolioo.netlify.app/**
 - ⚡ I love to explore new technologies.
 - 📖 Sometimes I write about topics related to Web Development on **Medium**. 
 
